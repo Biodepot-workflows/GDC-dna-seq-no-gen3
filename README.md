@@ -2,6 +2,8 @@
 
 For more information about how to use GitPod, click this [LINK](GITPOD.md).
 
+For more information on how to use Bwb, click this [LINK](https://biodepot.github.io/training/).
+
 # Genomic Data Commons (GDC) Workflow
 
 This repository contains executable graphical workflows, data files, outputs, and Jupyter notebooks reported in the following pre-print:
